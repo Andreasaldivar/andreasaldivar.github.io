@@ -1,2 +1,2 @@
 # andreasaldivar.github.io
-Data Analyst Portofolio
+## Data Analyst Portfolio
