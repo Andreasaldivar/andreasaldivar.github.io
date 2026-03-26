@@ -1,9 +1,13 @@
 # HI! I'M ANDREA SALDIVAR BUSTOS
-###🎯 Data Analyst with experience in pricing and data analysis.
+🎯 Data Analyst with experience in pricing and data analysis.
 
-###📊 Skilled in Python, SQL, and data visualization
+## 🚀 Projects
+- 📦 Logistics Pricing Analysis (Python)
+- 📈 SQL Retention Analysis
+- 🚗 Mobility vs Economic Productivity Study
 
-###Python | SQL | Pandas | Power BI | Excel | Logistics | Social Innovation
+## 🛠️ Tools
+Python | SQL | Pandas | Power BI | Excel
 
-###📫 Contact
+## 📫 Contact
 bustosandreasaldivar@gmail.com
