@@ -1,3 +1,6 @@
 # ANDREA SALDIVAR BUSTOS
-## Welcome to my Data Analyst Portfolio.
-### Data analyst with 4+ years of experience at the logistics field. Currently certifying at SQL, Python and PowerBi. 
+🎯 Data Analyst with experience in pricing and data analysis.  
+📊 Skilled in Python, SQL, and data visualization
+Python | SQL | Pandas | Power BI | Excel | Logistics | Social Innovation
+📫 Contact
+bustosandreasaldivar@gmail.com
