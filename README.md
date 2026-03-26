@@ -1,4 +1,4 @@
-# ANDREA SALDIVAR BUSTOS
+# HI! I'M ANDREA SALDIVAR BUSTOS
 ##🎯 Data Analyst with experience in pricing and data analysis.
 
 ##📊 Skilled in Python, SQL, and data visualization
